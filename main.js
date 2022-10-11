@@ -11,3 +11,5 @@ if( block> 0 && block <= 18) {
     alert('Что-то пошло не так');
 }
 
+console.log(1);
+
